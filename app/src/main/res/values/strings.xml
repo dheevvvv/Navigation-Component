@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Navigation_Component</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ini_halaman_pertama">ini halaman pertama</string>
+    <string name="go_to_halaman_kedua">go to halaman kedua</string>
+    <string name="ini_halaman_kedua">ini halaman kedua</string>
+    <string name="nama_kamu">Nama Kamu :</string>
+    <string name="nama_kamu_">Nama Kamu</string>
+    <string name="ke_halaman_ketiga">Ke halaman ketiga</string>
+    <string name="ini_halaman_ketiga">ini halaman ketiga</string>
+    <string name="login">LOGIN</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="register">REGISTER</string>
+    <string name="nama">Nama</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="hello_user">Hello, user</string>
+    <string name="logout">Logout</string>
+</resources>
